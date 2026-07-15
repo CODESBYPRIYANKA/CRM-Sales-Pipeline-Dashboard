@@ -68,3 +68,12 @@ The dashboard provides executives and sales managers with key performance indica
 - Analyzed won and lost customer trends.
 - Evaluated sales agent performance.
 - Compared customer outcomes across different industries.
+
+
+## 🗂️ Data Model
+
+The dashboard is built using a relational data model connecting customer accounts, products, sales pipeline, and sales teams. This structure enables accurate KPI calculations, DAX measures, and interactive business reporting.
+
+### 📸 Data Model Preview
+
+![CRM Data Model](CRM_Data_Model.png)
